@@ -1,0 +1,136 @@
+** Drc report for PotBreakout.kicad_pcb **
+** Created on 2026-07-19T19:28:19 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 31 DRC violations **
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1778 mm)
+    Local override; error
+    @(12.7000 mm, -10.1600 mm): PTH pad 1 [VIN] of JP2
+    @(11.4300 mm, -8.8900 mm): Track [A0] on B.Cu, length 5.0800 mm
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(7.6200 mm, -7.6200 mm): Segment of R1 on F.Silkscreen
+    @(5.0800 mm, -7.6200 mm): PTH pad 2 [A0] of R1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(10.1600 mm, -7.6200 mm): Segment of R2 on F.Silkscreen
+    @(10.1600 mm, -2.5400 mm): PTH pad 1 [5V] of R2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.5400 mm, -7.6200 mm): Segment of R1 on F.Silkscreen
+    @(2.5400 mm, -2.5400 mm): PTH pad 1 [5V] of R1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.5400 mm, -2.5400 mm): Segment of R1 on F.Silkscreen
+    @(2.5400 mm, -2.5400 mm): PTH pad 1 [5V] of R1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.5400 mm, -2.5400 mm): Segment of R1 on F.Silkscreen
+    @(7.6200 mm, -2.5400 mm): PTH pad 3 [GND] of R1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(7.6200 mm, -2.5400 mm): Segment of R1 on F.Silkscreen
+    @(7.6200 mm, -2.5400 mm): PTH pad 3 [GND] of R1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(5.0800 mm, -5.0800 mm): Circle of R1 on F.Silkscreen
+    @(5.0800 mm, -7.6200 mm): PTH pad 2 [A0] of R1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(10.1600 mm, -2.5400 mm): Segment of R2 on F.Silkscreen
+    @(10.1600 mm, -2.5400 mm): PTH pad 1 [5V] of R2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(10.1600 mm, -2.5400 mm): Segment of R2 on F.Silkscreen
+    @(15.2400 mm, -2.5400 mm): PTH pad 3 [GND] of R2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(15.2400 mm, -7.6200 mm): Segment of R2 on F.Silkscreen
+    @(12.7000 mm, -7.6200 mm): PTH pad 2 [A1] of R2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(15.2400 mm, -2.5400 mm): Segment of R2 on F.Silkscreen
+    @(15.2400 mm, -2.5400 mm): PTH pad 3 [GND] of R2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(12.7000 mm, -5.0800 mm): Circle of R2 on F.Silkscreen
+    @(12.7000 mm, -7.6200 mm): PTH pad 2 [A1] of R2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(17.7800 mm, -7.6200 mm): Segment of R3 on F.Silkscreen
+    @(17.7800 mm, -2.5400 mm): PTH pad 1 [5V] of R3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(17.7800 mm, -2.5400 mm): Segment of R3 on F.Silkscreen
+    @(17.7800 mm, -2.5400 mm): PTH pad 1 [5V] of R3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(17.7800 mm, -2.5400 mm): Segment of R3 on F.Silkscreen
+    @(22.8600 mm, -2.5400 mm): PTH pad 3 [GND] of R3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(22.8600 mm, -7.6200 mm): Segment of R3 on F.Silkscreen
+    @(20.3200 mm, -7.6200 mm): PTH pad 2 [A2] of R3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(22.8600 mm, -2.5400 mm): Segment of R3 on F.Silkscreen
+    @(22.8600 mm, -2.5400 mm): PTH pad 3 [GND] of R3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(20.3200 mm, -5.0800 mm): Circle of R3 on F.Silkscreen
+    @(20.3200 mm, -7.6200 mm): PTH pad 2 [A2] of R3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(25.4000 mm, -7.6200 mm): Segment of R4 on F.Silkscreen
+    @(25.4000 mm, -2.5400 mm): PTH pad 1 [5V] of R4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(25.4000 mm, -2.5400 mm): Segment of R4 on F.Silkscreen
+    @(25.4000 mm, -2.5400 mm): PTH pad 1 [5V] of R4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(25.4000 mm, -2.5400 mm): Segment of R4 on F.Silkscreen
+    @(30.4800 mm, -2.5400 mm): PTH pad 3 [GND] of R4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(30.4800 mm, -7.6200 mm): Segment of R4 on F.Silkscreen
+    @(27.9400 mm, -7.6200 mm): PTH pad 2 [A3] of R4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(30.4800 mm, -2.5400 mm): Segment of R4 on F.Silkscreen
+    @(30.4800 mm, -2.5400 mm): PTH pad 3 [GND] of R4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(27.9400 mm, -5.0800 mm): Circle of R4 on F.Silkscreen
+    @(27.9400 mm, -7.6200 mm): PTH pad 2 [A3] of R4
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(5.0800 mm, -11.7475 mm): PCB text '5V' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(8.8900 mm, -11.7475 mm): PCB text 'GND' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(17.7800 mm, -11.7475 mm): PCB text 'A0' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(20.3200 mm, -11.7475 mm): PCB text 'A1' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(22.8600 mm, -11.7475 mm): PCB text 'A2' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(25.4000 mm, -11.7475 mm): PCB text 'A3' on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
